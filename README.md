@@ -8,7 +8,7 @@
 
 ![sample image](plots/and.png)
 
-<img src="plots/and.png" alt="AND Plot" width="500" height="600">
+<img src="plots/and.png" alt="AND Plot" width="600" height="600">
 
 ### Code
 
